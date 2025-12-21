@@ -1,0 +1,5 @@
+{
+  "name": "MAIP - Multimorbidity-Anchored ICU Phenotypes",
+  "description": "A high-impact data science portfolio showcasing a novel unsupervised learning pipeline for ICU patient phenotyping, featuring interpretable surrogate models and RAG-driven clinical documentation.",
+  "requestFramePermissions": []
+}
