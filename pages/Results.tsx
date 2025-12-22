@@ -6,7 +6,7 @@ import { PhenotypeRule } from '../types';
 /**
  * DELTA C SCALING LOGIC:
  * width% = (deltaC / MAX_DELTA_C) * 100
- * Triggered via IntersectionObserver.
+ * Triggered via IntersectionObserver. //
  */
 
 const DeltaBar: React.FC<{ value: number; visible: boolean; colorClass?: string }> = ({ value, visible, colorClass = "bg-snf" }) => {
