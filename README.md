@@ -17,7 +17,7 @@ A small Vite + React app that presents the MAIP research project: multimorbidity
 3. Production build: `npm run build` → output in `dist/`
 4. Preview the build locally: `npm run preview`
 
-## Project layout
+## Layout
 - `App.tsx` – top-level routing and layout wrapper
 - `components/Layout.tsx` – nav, footer, and page chrome
 - `pages/Home.tsx` – overview of the problem/approach
@@ -26,7 +26,6 @@ A small Vite + React app that presents the MAIP research project: multimorbidity
 - `constants.ts` / `types.ts` – demo fixtures for phenotypes and C-index metrics
 - `index.css` / `tailwind.config.cjs` – styling tokens and Tailwind setup
 
-## Editing the demo content
+## Notes on future edits
 - Update phenotypes, rules, and validation numbers in `constants.ts`.
-- Tweak colors/spacing in `index.css` or Tailwind config.
 - HashRouter is used so the static build works on GitHub Pages or any static host without server-side routing.
