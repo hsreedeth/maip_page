@@ -357,10 +357,10 @@ const Results: React.FC = () => {
           For full implementation details, validation metrics, and the complete supporting manuscript, please visit the repository.
         </p>
         <div className="flex space-x-6">
-          <a href="#" className="px-8 py-4 bg-black text-white rounded-full text-sm font-semibold hover:bg-zinc-800 transition-all hover:scale-105 active:scale-95 shadow-lg">
+          <a href="https://github.com/hsreedeth/MAIP" className="px-8 py-4 bg-black text-white rounded-full text-sm font-semibold hover:bg-zinc-800 transition-all hover:scale-105 active:scale-95 shadow-lg">
             View on GitHub
           </a>
-          <a href="#" className="px-8 py-4 border border-apple rounded-full text-sm font-semibold hover:bg-slate-50 transition-all hover:scale-105 active:scale-95">
+          <a href="https://hsreedeth.github.io/MAIP/" className="px-8 py-4 border border-apple rounded-full text-sm font-semibold hover:bg-slate-50 transition-all hover:scale-105 active:scale-95">
             Read Manuscript
           </a>
         </div>
